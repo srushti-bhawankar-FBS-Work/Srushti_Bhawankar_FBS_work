@@ -1,1 +1,0 @@
-#6. Write a program to calculate profit or loss.
